@@ -1,0 +1,12 @@
+#pic {
+height: 390px; 
+width: 390px;
+}
+
+@media (min-width:805px){
+    #pic{   
+    height: 790px; 
+    width: 790px;
+    }
+}
+
